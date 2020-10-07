@@ -24,6 +24,16 @@
       "nombre": "Jugo de Fresa",
       "precio": "200",
       "id": 5
+    },
+    {
+      "nombre": "Queso",
+      "precio": 12,
+      "id": 6
+    },
+    {
+      "nombre": "Jugo ",
+      "precio": 50,
+      "id": 7
     }
   ]
 }
